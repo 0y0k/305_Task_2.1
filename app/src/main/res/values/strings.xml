@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">305_2.1P</string>
+    <string name="hint_enter_value">Enter value</string>
+    <string name="button_convert">Convert</string>
+    <string name="text_converted_value">Converted value will appear here</string>
+    <string-array name="all_units">
+        <item>inch</item>
+        <item>foot</item>
+        <item>yard</item>
+        <item>mile</item>
+        <item>cm</item>
+        <item>km</item>
+    </string-array>
+</resources>
